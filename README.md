@@ -14,7 +14,7 @@ Um módulo para transformação de fala (linguagem natural humana) em texto (spe
 
 O módulo 2, deve acionar por comando de voz algumas funções automatizadas, como por exemplo: abrir uma pesquisa no Wikipedia, abrir o Youtube ou apresentar a localização da farmácia mais próxima.
 
-Para realizar este projeto, podem ser utilizada todas as bibliotecas apresentadas no curso, principalmente a biblioteca Speech recognition em Python.  
+Para realizar este projeto, podem ser utilizadas todas as bibliotecas apresentadas no curso, principalmente a biblioteca Speech recognition em Python.  
 
 Para auxiliar no projeto foram disponibilizados pela DIO dois exemplos, um para text to speech e outro para speech to text. Ambos podem ser encontrados no Github, seguindo os links abaixo:
 
